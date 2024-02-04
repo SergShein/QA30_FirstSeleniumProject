@@ -1,1 +1,1 @@
-# QA30_FirstSeleniumProject2
+# QA30_FirstSeleniumProject
